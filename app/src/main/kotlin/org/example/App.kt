@@ -6,7 +6,7 @@ package org.example
 class App {
     val greeting: String
         get() {
-            return "Hola Mundo!"
+            return "Holaaaa Mundo!"
         }
 }
 
